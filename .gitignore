@@ -4,3 +4,6 @@
 public.key
 *.pdf
 */sheet*-programming-*.ipynb
+solutions
+*/test.py
+*/*.pages
